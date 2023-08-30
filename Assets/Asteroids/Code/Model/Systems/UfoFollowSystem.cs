@@ -1,6 +1,5 @@
 using System.Numerics;
 using Asteroids.ECS;
-using Asteroids.Model.SharedData;
 
 namespace Asteroids.Model
 {

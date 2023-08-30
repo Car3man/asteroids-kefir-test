@@ -1,7 +1,5 @@
 ﻿using System.Numerics;
 using Asteroids.ECS;
-using Asteroids.Model.Services;
-using Asteroids.Model.SharedData;
 using Asteroids.Model.Utility;
 
 namespace Asteroids.Model

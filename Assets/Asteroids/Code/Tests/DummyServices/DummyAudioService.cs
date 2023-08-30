@@ -1,4 +1,4 @@
-﻿using Asteroids.Model.Services;
+﻿using Asteroids.Model;
 
 namespace Asteroids.Tests.DummyServices
 {

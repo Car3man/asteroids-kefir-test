@@ -1,5 +1,4 @@
 ﻿using Asteroids.ECS;
-using Asteroids.Model.SharedData;
 using Vector2 = System.Numerics.Vector2;
 
 namespace Asteroids.Model

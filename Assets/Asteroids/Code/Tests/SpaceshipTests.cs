@@ -2,7 +2,6 @@
 using System.Numerics;
 using Asteroids.ECS;
 using Asteroids.Model;
-using Asteroids.Model.SharedData;
 using Asteroids.Tests.DummyServices;
 using NUnit.Framework;
 

@@ -1,4 +1,4 @@
-﻿using Asteroids.Model.Services;
+﻿using Asteroids.Model;
 using UnityEngine;
 
 namespace Asteroids.Frontend.Audio

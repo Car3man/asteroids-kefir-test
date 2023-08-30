@@ -1,4 +1,4 @@
-﻿namespace Asteroids.Model.Services
+﻿namespace Asteroids.Model
 {
     public interface IAudioService
     {

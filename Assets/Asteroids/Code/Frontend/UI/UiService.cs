@@ -1,6 +1,4 @@
 ﻿using Asteroids.Model;
-using Asteroids.Model.Services;
-using Asteroids.Model.SharedData;
 using TMPro;
 using UnityEngine;
 

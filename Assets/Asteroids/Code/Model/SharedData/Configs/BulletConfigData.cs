@@ -1,4 +1,4 @@
-﻿namespace Asteroids.Model.SharedData
+﻿namespace Asteroids.Model
 {
     public struct BulletConfigData
     {

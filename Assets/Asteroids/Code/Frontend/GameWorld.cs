@@ -1,7 +1,5 @@
 ﻿using Asteroids.ECS;
 using Asteroids.Model;
-using Asteroids.Model.Services;
-using Asteroids.Model.SharedData;
 using UnityEngine;
 
 namespace Asteroids.Frontend

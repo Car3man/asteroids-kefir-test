@@ -1,6 +1,5 @@
 ﻿using Asteroids.ECS;
 using Asteroids.Model;
-using Asteroids.Model.SharedData;
 
 namespace Asteroids.Frontend
 {
