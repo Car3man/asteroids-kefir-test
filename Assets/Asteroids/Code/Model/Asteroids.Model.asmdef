@@ -1,0 +1,16 @@
+{
+    "name": "Asteroids.Model",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f91f2d387de571a4a8303ab77659190e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

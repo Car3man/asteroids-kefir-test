@@ -1,0 +1,19 @@
+{
+    "name": "Asteroids.Frontend",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f91f2d387de571a4a8303ab77659190e",
+        "GUID:9983a96efbe2dbd41b7c47fab183f119",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

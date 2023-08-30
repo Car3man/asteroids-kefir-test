@@ -1,0 +1,21 @@
+{
+    "name": "Asteroids.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f91f2d387de571a4a8303ab77659190e",
+        "GUID:9983a96efbe2dbd41b7c47fab183f119"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
